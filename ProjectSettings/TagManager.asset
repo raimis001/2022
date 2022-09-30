@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Obstacle
   - Lives
+  - Arrow
   layers:
   - Default
   - TransparentFX
@@ -18,9 +19,9 @@ TagManager:
   - 
   - 
   - Gound
-  - 
-  - 
-  - 
+  - Player
+  - Arrow
+  - Enemy
   - 
   - 
   - 
