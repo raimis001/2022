@@ -7,6 +7,8 @@ TagManager:
   - Obstacle
   - Lives
   - Arrow
+  - Item
+  - Timer
   layers:
   - Default
   - TransparentFX
